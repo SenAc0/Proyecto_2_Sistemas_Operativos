@@ -1,3 +1,1 @@
 # Proyecto_2_Sistemas_Operativos
-# Proyecto_2_Sistemas_Operativos
-# Proyecto_2_Sistemas_Operativos
