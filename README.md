@@ -1,5 +1,19 @@
 # Proyecto 2: Sistemas Operativos
 
+La parte 1 de este proyecto es la cola circular, usando un monitor para simular el problema de productor y consumidor.
+## Características principales
+  - **Cola Circular**
+  - **Log**
+  - **Monitor**
+## Instrucciones de compilación
+Para compilar el programa, ejecuta el siguiente comando en la terminal:
+```bash
+g++ -o cola productor_consumidor.cpp
+```
+```bash
+./cola -p 10 -c 5 -s 50 -t 1
+```
+
 La parte 2 de este proyecto pide implementar algoritmos de reemplazo de páginas de memoria virtual, siendo: **FIFO**, **LRU**, **RS** (Reloj Simple) y **Óptimo**. También se decidió incluir la opción de ejecutar todos los algoritmos secuencialmente mediante la opción **All**. 
 ## Características principales
 - Implementación de los algoritmos:
