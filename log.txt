@@ -1,0 +1,24 @@
+Productor agregó el elemento: -1046474832
+Productor agregó el elemento: -1056960592
+Productor agregó el elemento: -1025503312
+Productor agregó el elemento: -1035989072
+Productor agregó el elemento: -1077932112
+Productor agregó el elemento: -1243607120
+Productor agregó el elemento: -1067446352
+Productor agregó el elemento: -1233121360
+Productor agregó el elemento: -1088417872
+Productor agregó el elemento: -1254092880
+Se redujo el tamaño de la cola a: 25
+Consumidor extrajo el elemento: -1046474832
+Consumidor extrajo el elemento: -1056960592
+Consumidor extrajo el elemento: -1025503312
+Se redujo el tamaño de la cola a: 12
+Consumidor extrajo el elemento: -1035989072
+Consumidor extrajo el elemento: -1077932112
+Consumidor extrajo el elemento: -1243607120
+Se redujo el tamaño de la cola a: 6
+Consumidor extrajo el elemento: -1067446352
+Consumidor extrajo el elemento: -1233121360
+Se redujo el tamaño de la cola a: 3
+Consumidor extrajo el elemento: -1088417872
+Consumidor extrajo el elemento: -1254092880
